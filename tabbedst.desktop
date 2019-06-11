@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Tabbed ST
+Comment=Terminal Emulator
+GenericName=Terminal Emulator
+Icon=terminal
+Terminal=false
+Exec=tabbed -c -r 2 st -w ''
+Categories=System;TerminalEmulator;Utility;

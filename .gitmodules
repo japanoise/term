@@ -1,0 +1,6 @@
+[submodule "st"]
+	path = st
+	url = https://github.com/japanoise/st
+[submodule "tabbed"]
+	path = tabbed
+	url = https://github.com/japanoise/tabbed
